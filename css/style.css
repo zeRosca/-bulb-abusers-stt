@@ -1,0 +1,28 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+#topo{
+	background-color: black;
+	color: white;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	font-family: Trebuchet MS;
+}
+
+body{
+	background-color: #4f4f4f;
+
+}
+
+.todos{
+	color: white;
+	padding-right: 4px;
+}
+
+#primeirolugar{
+	border: 1px;
+}
+
